@@ -19,7 +19,7 @@ Clonez d'abord le dépôt Git en utilisant la commande suivante :
 
 ```bash
 git clone https://github.com/khadouj02/Defi_f.git
-cd defi4
+cd Defi_f
 ```
 
 ## Configuration du Backend
